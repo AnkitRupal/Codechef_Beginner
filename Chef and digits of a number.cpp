@@ -1,4 +1,4 @@
-#include<bits/stdec++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main(){
@@ -18,7 +18,7 @@ int main(){
 		if(zero==1 || one==1){
 			cout<<"Yes"<<endl;
 		}else{
-			cout<<"Nio"<<endll;
+			cout<<"No"<<endl;
 		}
 	}
 	return 0;
